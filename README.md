@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timothy-tyk
 - 👀 I’m interested in 
-- 🌱 I’m currently learning Harvard's CS50 Web Programming with Python and Javascript on edX, and keen to learn the MERN stack soon.
+- 🌱 I’m currently undergoing Rocket Academy's Full Time Bootcamp for Software Engineering
 - 💞️ I’m looking to collaborate on ... nothing at the moment
 - 📫 How to reach me ... timothytan94@gmail.com
 
