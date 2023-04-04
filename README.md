@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @timothy-tyk
-- 👀 I’m interested in nothing
+- 👀 https://www.linkedin.com/in/timothy-tan-60713b157/ to connect!
 
 <!---
 placcidfenis/placcidfenis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
